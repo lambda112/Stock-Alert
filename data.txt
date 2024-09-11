@@ -1,0 +1,14 @@
+STOCK DATA-----------------------------
+Todays closing price: 3.4
+Yesterdays closing price: 3.27
+Price increased by 3.9%
+
+NEWS DATA-----------------------------
+SOURCE: {'id': None, 'name': 'Siliconera'}
+AUTHOR: Stephanie Liu
+TITLE: All Mothership Titles in the Tales Series in Release Order
+DESCRIPTION: The 30th anniversary of the Tales series is just around the corner and Bandai Namco has already started preparations with the Remastered Project. For those who would like to take a walk down memory lane, or are curious about what other Tales games they can pl…
+URL: https://www.siliconera.com/all-mothership-titles-in-the-tales-series-in-release-order/
+URLTOIMAGE: https://www.siliconera.com/wp-content/uploads/2024/09/tales-of-the-rays-header-09082024.png
+PUBLISHEDAT: 2024-09-09T21:15:00Z
+CONTENT: The 30th anniversary of the Tales series is just around the corner and Bandai Namco has already started preparations with the Remastered Project. For those who would like to take a walk down memory l… [+12250 chars]
