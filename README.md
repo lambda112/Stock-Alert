@@ -1,1 +1,1 @@
- 
+Created a project that could collect the closing price of a stock. Then depending on whether the value altered between a specific percentage, email the user the fluctuated price and news data so they can gain a better understanding of why this happened.
